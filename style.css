@@ -35,5 +35,15 @@
     bottom: initial;
 }
 .card{
-    margin: 50px;
+    margin: 20px;
+}
+.row{
+    margin-top: 30px;
+}
+footer{
+    margin-top: 20px;
+    background-color: aqua;
+    color: white;
+    padding: 8px;
+
 }
