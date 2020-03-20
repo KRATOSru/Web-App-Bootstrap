@@ -60,3 +60,10 @@ footer{
     color: white;
     padding: 8px;
 }
+   /*about me*/
+.anim1{
+    opacity: 0;
+}
+.anim1.animated{
+    opacity: 1;
+}
