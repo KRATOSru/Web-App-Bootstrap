@@ -43,11 +43,11 @@ body{
     margin: 20px;
     transform: scale(1.02);
     transition:transform 0.4s;
-    opacity: 0.8;
+    opacity: 0.4;
     background:gray;
 }
 .card:hover{
-    transform: scale(1);
+    transform: scale(1.0);
     opacity: 1;
 }
 
